@@ -34,6 +34,8 @@ public class Calculator {
     public double divide(double a, double b) {
         return b / a;
     }
+
+    // Strange stuff 1
     
 }
 
